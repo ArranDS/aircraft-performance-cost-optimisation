@@ -26,3 +26,5 @@ the sensitivity of fuel burn and also operating cost to the key performance driv
 - Numerical modelling
 - Data visualisation
 - Optimisation via parameter sweeps
+- 
+![Cost surface](cost_proxy_surface.png)
